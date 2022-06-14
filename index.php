@@ -8,7 +8,7 @@
  // Magenta Color Text
  // CYAN Color Text
  // WHITE Color Text
- require_once 'src\ClassApp\ColorTextConsole.php';
+ require_once 'src/ClassApp/ColorTextConsole.php';
 
  use ConsoleColorPhp\ClassApp\ColorTextConsole;
 
